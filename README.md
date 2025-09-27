@@ -53,25 +53,6 @@
   <img src="https://img.shields.io/static/v1?message=Codesandbox&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="35" alt="codesandbox logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ParthPatel-CyberX/ParthPatel-CyberX/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<h2 align="left"></h2>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ParthPatel-CyberX/ParthPatel-CyberX/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ParthPatel-CyberX/ParthPatel-CyberX/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ParthPatel-CyberX/ParthPatel-CyberX/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
